@@ -1,0 +1,8 @@
+interval: 3600
+random_next: 5
+head_drop_change: 2.0
+bounty_price:
+  - type: diamond
+    amount: 5
+  - type: iron
+    amount: 10
